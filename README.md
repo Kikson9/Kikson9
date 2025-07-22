@@ -1,6 +1,6 @@
 # Hey there! 👋 Welcome to my GitHub profile!  
 
-I’m Okike Tochukwu Daniel, a curious college student on a journey to crafting impactful web projects. 🚀  
+I’m Okike Tochukwu, a curious college student on a journey to crafting impactful web projects. 🚀  
 With interest in Web3 technologies, I’ve been contributing to communities, exploring blockchain opportunities, and embracing innovation through the **Thrive Protocol**.  
 
 ### 🌱 What I’m Working On  
