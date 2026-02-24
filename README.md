@@ -4,12 +4,12 @@ I’m Okike Tochukwu, a college student on a journey to crafting impactful web p
 With interest in Web3 technologies, I’ve been contributing to communities, exploring blockchain opportunities, and embracing innovation through the **Thrive Protocol**.  
 
 ### 🌱 What I’m Working On  
-- 📚 Expanding my JavaScript skills one project at a time.  
+- 📚 Expanding my tech stack one project at a time.  
 - 🌐 Building responsive, user-friendly web apps.  
 - 💡 Exploring how Web3 transforms community engagement and collaboration.  
 
 ### 💻 My Skill Set  
-- Programming: JavaScript, HTML, CSS  
+- Programming: React, JavaScript, HTML, CSS  
 - Web3 Expertise: Community contributions, blockchain fundamentals
 - Soft Skills: Collaboration, problem-solving, adaptability  
 
